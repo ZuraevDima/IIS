@@ -177,4 +177,4 @@ Car_washes "1" *-- "0..*" Services : has services>
 @enduml
 ```
 
-<img src="" alt="">
+<img src="c4.png" alt="c4_model_pic">
